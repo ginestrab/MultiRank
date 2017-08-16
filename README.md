@@ -39,7 +39,8 @@ If you want to see how the algorithm works for the given dataset execute the fol
 The European Air Multiplex Transportation Network is taken from the data repository of Manlio de Domenico available at 
 http://deim.urv.cat/~manlio.dedomenico/data.php
 
-If you use this dataset please cite 
+If you use this dataset please cite:
+
 [2] Alessio Cardillo, Jesús Gómez-Gardenes, Massimiliano Zanin, Miguel Romance, David Papo, Francisco del Pozo and Stefano Boccaletti - Emergence of network features from multiplexity. Scientific Reports 3, Article number: 1344 doi:10.1038/srep01344 
 
  This code can be redistributed and/or modified
