@@ -21,8 +21,11 @@ EUAir Transportation_multiplex.edges
 If you want to see how the algorithm works for the given dataset execute the following commands
  
  read_airports
+ 
  [X,Z,XR,ZR]=MultiRank(A,M,N,1,1)
+ 
  MultiRank_plots(XR,ZR,Nnames,Lnames,N,M,15,15)
+ 
    
  If you use the included MATLAB code please cite 
 
