@@ -47,7 +47,9 @@ function [x,z]=MultiRank_Nodes_Layers(A,M,N,alpha,gamma,s,a)
 
 
 v_quadratic_error=0.0001;
-
+		for n=1:M,
+		A{n}=A{n}';
+		end
 		 for n=1:M,
 			for i=1:N,
 			Bin(n,i)=sum(A{n}(i,:));
