@@ -30,8 +30,7 @@ If you want to see how the algorithm works for the given dataset execute the fol
  If you use the included MATLAB code please cite 
 
  [1]   C. Rahmede, J.Iacovacci, A. Arenas and G. Bianconi, 
-"Centralities of Nodes and Influences of Layers in Large Multiplex Networks"
- arxiv:1703.05833 (2017).
+"Centralities of Nodes and Influences of Layers in Large Multiplex Networks" Journal of Complex Networks 6,  733 (2017).
 
  (c) Christoph Rahmede (c.rahmede@kit.edu)
      Ginestra Bianconi (g.bianconi@qmul.ac.uk)  
